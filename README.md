@@ -11,13 +11,14 @@ The goal was to identify meaningful performance patterns and translate them into
 ## Executive Snapshot
 <img width="1068" height="615" alt="image" src="https://github.com/user-attachments/assets/87630522-7146-4e28-85b3-885e9efc2cdd" />
 
+<br>
 
 | 92.77% | 18.75% vs 3.42% | 650 vs 277 | 8.5 → 11.1 hrs |
 |---|---|---|---|
 | **Overall completion** | **Professional DNF** | **Market size vs. performance** | **Division performance gap** |
 | 2,258 / 2,434 completed | More than 5× amateur DNF | USA vs. Germany | Fastest vs. slowest division |
 
-> **The headline:** Overall completion was strong, but aggregate results masked meaningful differences across athlete segments, countries, and divisions.
+> **Key takeaway:** Overall completion was strong, but aggregate results masked meaningful differences across athlete segments, countries, and divisions.
 
 ---
 
@@ -39,53 +40,35 @@ The objective was to move from **aggregate event metrics to actionable performan
 
 ### 01 — Overall completion was strong
 
-**92.77% of participants completed the race**, with 2,258 finishers out of 2,434 participants.
-
-This provides a strong baseline, but the aggregate completion rate alone does not explain the differences within the participant population.
-
+**92.77% completion rate.** 2,258 of 2,434 participants finished the race, providing a strong baseline for evaluating variation across participant segments.
 
 ---
 
 ### 02 — Professional athletes showed a different risk profile
 
-The **18.75% professional DNF rate** was more than five times the **3.42% amateur DNF rate**.
-
-This indicates a materially different completion profile between athlete groups and supports evaluating professional performance separately.
-
+**18.75% professional DNF vs. 3.42% among amateurs.** Professionals averaged 8:59 versus 11:31 for amateurs, indicating a materially different completion and performance profile.
 
 ---
 
 ### 03 — Participation volume did not consistently align with performance
 
-The USA had **650 participants**, compared with **277 in Germany**, but the largest participant market did not have the strongest average performance.
+**USA: 650 participants vs. Germany: 277.** The largest participant market did not have the strongest average performance, highlighting a distinction between market size and athlete performance.
 
-This highlights an important distinction between **market size and athlete performance**.
+**Participation volume:** The USA was the largest market.
 
-<img width="430" height="262" alt="image" src="https://github.com/user-attachments/assets/a6baf82e-6c5c-4a85-9e55-53ca6e21d73d" />
+<img width="430" height="262" alt="Top 5 Countries by Participants" src="https://github.com/user-attachments/assets/a6baf82e-6c5c-4a85-9e55-53ca6e21d73d" />
 
-<img width="540" height="290" alt="image" src="https://github.com/user-attachments/assets/1ea8ce66-7ec7-40c7-9166-f3aa77616863" />
+Performance: Germany recorded a faster average finish despite having less than half the participants.
+
+<img width="540" height="290" alt="Average Finish Time by Country" src="https://github.com/user-attachments/assets/1ea8ce66-7ec7-40c7-9166-f3aa77616863" />
 
 ---
 
 ### 04 — Performance varied substantially across divisions
 
-Average performance ranged from approximately **8.5 to 11.1 hours** across divisions.
+**8.5 to 11.1 hours across divisions.** The performance gap demonstrates why division-level benchmarks provide additional context beyond overall event averages.
 
-The gap demonstrates why division-level benchmarks provide additional context beyond overall event averages.
-
-<img width="536" height="244" alt="image" src="https://github.com/user-attachments/assets/69c0ec6e-14e6-459e-b346-84290cbff50b" />
-
----
-
-## Business Implications
-
-The analysis suggests that overall event averages can hide important differences within the participant population.
-
-For future planning, IronPeak should consider:
-
-- **Athlete segment:** professional and amateur participants show materially different completion profiles.
-- **Market composition:** participant volume alone does not indicate stronger performance.
-- **Division benchmarks:** division-level performance provides additional context for evaluating overall results.
+<img width="536" height="244" alt="Average Finish Time by Division" src="https://github.com/user-attachments/assets/69c0ec6e-14e6-459e-b346-84290cbff50b" />
 
 ---
 
